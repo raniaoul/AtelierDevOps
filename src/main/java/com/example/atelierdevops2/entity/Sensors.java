@@ -25,5 +25,7 @@ public class Sensors {
     float flow;
     double level;
 
-
+    Date time1;
+    float flow1;
+    double level1;
 }
