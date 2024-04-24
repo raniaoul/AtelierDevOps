@@ -1,4 +1,4 @@
-package com.example.backauto.entity;
+package com.example.atelierdevops2.entity;
 
 
 import jakarta.persistence.*;
